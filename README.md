@@ -1,180 +1,151 @@
-# Mohammed Amine Hssaine 🚀
+# Mohammed Amine Hssaine  🚀
 
 <div align="center">
   
-**AI Engineer | Software Developer | Tech Lead**
+**AI Software Engineer | Tech Leader | Competitive Programmer**
 
-*Building the future through intelligent systems and innovative software solutions*
+*Building intelligent systems and leading tech communities*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medaminehssaine/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medaminehssaine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medaminehssaine.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:med.amine.hssaine@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-I'm an AI & Data Technologies Engineering student at **ENSAM Meknès**, specializing in Industrial Systems with a passion for cutting-edge technology and innovation. Currently leading technical initiatives while building production-ready AI solutions.
+4th Year AI & Data Technologies Student at **ENSAM Meknès**, AI Software Engineer at **AriMayi**, and President of **Gadz'IT** - ENSAM's premier computer science club.
 
-**Current Focus:** Developing advanced AI systems, cloud infrastructure, and leading technical communities.
+Tech enthusiast with a passion for competitive programming, AI systems, and building technical communities. From organizing national programming competitions to developing production ML models, I thrive at the intersection of technology and leadership.
+
+**Current Focus:** AI-driven business solutions, cybersecurity research, and scaling technical communities.
 
 ---
 
-## 🛠️ Technical Stack
+## 🏆 Leadership & Impact
 
-### **Languages & Frameworks**
+### **President - Gadz'IT Computer Science Club** *(2025-2026)*
+*Leading ENSAM's largest tech community*
+
+**Journey:** Member (2022-2023) → Sponsorship Leader (2023-2024) → VP (2024-2025) → President (2025-2026)
+
+**Key Achievements:**
+- **AMPC3 Competition:** Organized Morocco's premier competitive programming contest with 40+ teams and 18,000 MAD in prizes
+- **Club Growth:** Expanded membership by 150% and established partnerships with major tech companies
+- **Technical Excellence:** Built comprehensive training programs covering algorithms, data structures, and competitive programming
+- **Community Building:** Created mentorship programs connecting students with industry professionals
+- **Event Management:** Successfully managed budgets exceeding 50,000 MAD and coordinated with national sponsors
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+```python
+Python  █████████████████████████████████████  Expert
+C++     ████████████████████████████████████████  Expert (CP Focus)
+Java    █████████████████████████████████  Advanced
+Go      ██████████████  Learning
 ```
-Python  ████████████████████████████████████████  Expert
-Java    ████████████████████████████████████████  Advanced
-C++     ████████████████████████████████████████  Advanced
-Rust    ████████████████████████████████████████  Learning
-Go      ████████████████████████████████████████  Learning
-R       ████████████████████████████████████████  Intermediate
-```
 
-### **AI/ML Technologies**
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Deep Learning:** Neural Networks, CNNs, RNNs, Transformers
-- **Computer Vision:** OpenCV, Image Processing, Object Detection
-- **Natural Language Processing:** NLTK, spaCy, Hugging Face
-- **Time Series Analysis:** Forecasting, Statistical Modeling
+### **AI & Machine Learning**
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face
+- **Specialties:** Time Series Forecasting, Recommendation Systems, NLP
+- **Tools:** Pandas, NumPy, Jupyter, MLflow, Optuna
 
-### **Backend & Cloud**
-- **Frameworks:** FastAPI, Django, Spring Boot
+### **Competitive Programming**
+- **Algorithms:** Graph Theory, Dynamic Programming, Number Theory
+- **Data Structures:** Advanced trees, segment trees, disjoint sets
+- **Platforms:** Codeforces, AtCoder, ICPC-style contests
+
+### **Backend & Infrastructure**
+- **Frameworks:** FastAPI, Django, Flask, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, Redis
-- **Cloud:** AWS, GCP, Docker, Kubernetes
-- **DevOps:** CI/CD, Linux, Git, Microservices
+- **Cloud:** AWS, GCP, Azure
+- **DevOps:** Docker, Kubernetes, CI/CD
 
----
-
-## 🏆 Leadership & Achievements
-
-### **President - Gadz'IT Computer Science Club**
-*Leading ENSAM's premier tech community*
-
-- **AMTech Challenge 2026**: Organizing a flagship international competition featuring:
-  - Hackathon & Innovation Track
-  - Competitive Programming Contest
-  - Cybersecurity CTF
-  - Technical Conference Series
-- **Budget Management**: Overseeing 80,000 MAD in sponsorships and resources
-- **Team Leadership**: Managing technical poles (AI, Competitive Programming, Cybersecurity, Software Development)
-- **Community Building**: Expanding club membership and technical workshops
+### **Currently Exploring**
+- **AI Security:** ML-based threat detection and security automation
+- **Systems Programming:** Go for high-performance applications
 
 ---
 
 ## 💼 Professional Experience
 
-### **AI Engineer** - AriMayi (Remote)
-*Building intelligent backend systems and AI platforms*
+### **AI Software Engineer** - AriMayi
+*July 2024 - Present*
 
-### **ML Engineer** - ReeWayy
-*Developing predictive AI models for sales forecasting and deployment optimization*
-
-### **Upcoming Opportunities**
-- **Research Internship**: Targeting positions at Capgemini, UM6P (AI Movement), or CERN
-- **Graduate Research**: Planning PhD studies in AI/ML (Norway focus)
-
----
-
-## 🚀 Featured Projects
-
-### **🤖 Sales Prediction AI System**
-Advanced machine learning pipeline for sales forecasting with real-time deployment capabilities.
-- **Tech Stack:** Python, TensorFlow, FastAPI, PostgreSQL
-- **Features:** Time series analysis, predictive modeling, REST API
-- **Impact:** Improved forecasting accuracy by 25%
-
-### **🏆 Competitive Programming Solutions**
-Comprehensive collection of algorithmic solutions and competitive programming implementations.
-- **Coverage:** Data structures, algorithms, mathematical problems
-- **Languages:** C++, Java, Python
-- **Competitions:** ICPC, Codeforces, AtCoder
-
-### **☁️ Cloud Infrastructure Projects**
-Production-ready cloud solutions with modern DevOps practices.
-- **Technologies:** Docker, Kubernetes, AWS/GCP
-- **Focus:** Scalable architectures, CI/CD pipelines, monitoring
+Developing intelligent e-commerce solutions:
+- **Sales Forecasting System:** Built ML pipeline for optimal inventory management, reducing overstock by 30%
+- **Recommendation Engine:** Implemented collaborative filtering system increasing user engagement by 25%
+- **Production Deployment:** Scaled models to handle 100k+ daily predictions with sub-200ms response times
+- **Tech Stack:** Python, TensorFlow, FastAPI, PostgreSQL, AWS
 
 ---
 
-## 📚 Academic Journey
+## 🏅 Achievements & Recognition
 
-**🎓 Engineering Degree** - ENSAM Meknès  
-*AI & Data Technologies: Industrial Systems*
+### **Competitive Programming**
+- **Multiple Contest Winner:** Secured top rankings in national and regional programming competitions
+- **Algorithm Expertise:** Specialized in graph algorithms, dynamic programming, and mathematical problem-solving
+- **Mentorship:** Trained 50+ students in competitive programming techniques
 
-**🔬 Research Interests:**
-- Artificial Intelligence & Machine Learning
-- Distributed Systems & Cloud Computing
-- Data Science & Analytics
-- Software Engineering Best Practices
-
-**🏅 Academic Goals:**
-- International research collaboration
-- PhD in AI/ML systems
-- Publication in top-tier conferences
+### **Technical Leadership**
+- **Community Impact:** Reached 500+ students through technical workshops and training sessions
+- **Industry Partnerships:** Established collaborations with leading Moroccan tech companies
+- **Event Excellence:** Consistently delivered high-quality technical events with 95%+ satisfaction rates
 
 ---
 
-## 🌟 Technical Philosophy
-
-> "Building systems that matter, solving problems that count."
-
-I believe in:
-- **Deep Technical Knowledge**: Understanding systems from assembly to cloud
-- **Practical Innovation**: Creating solutions that solve real-world problems
-- **Continuous Learning**: Staying at the forefront of technology
-- **Community Impact**: Sharing knowledge and building together
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminehssaine&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medaminehssaine&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Current Learning Path
+## 🚀 Current Projects & Goals
 
-```mermaid
-graph LR
-    A[Advanced AI/ML] --> B[Cloud Architecture]
-    B --> C[Systems Programming]
-    C --> D[Research & Innovation]
-    D --> E[Industry Leadership]
-```
+**Technical Focus:**
+- Advanced ML systems for business intelligence
+- AI security and threat detection research
+- High-performance systems programming in Go
 
-**2024-2025 Focus:**
-- Advanced machine learning systems
-- Cloud-native application development
-- Research methodology and publication
-- International collaboration opportunities
+**Leadership Goals:**
+- Expand Gadz'IT's national presence and impact
+- Launch Morocco's largest student tech conference
+- Build sustainable mentorship programs for aspiring developers
+
+**2025 Roadmap:**
+- Graduate-level AI research preparation
+- Open-source contributions to ML frameworks
+- International competitive programming recognition
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
-- **Collaboration** on AI/ML projects
-- **Research** opportunities and partnerships
-- **Technical discussions** and knowledge sharing
-- **Innovation** in software engineering
+I'm passionate about:
+- **AI/ML Innovation:** Building production-ready intelligent systems
+- **Competitive Programming:** Algorithm design and problem-solving
+- **Tech Leadership:** Growing technical communities and mentoring developers
+- **Research Collaboration:** Academic and industry partnerships in AI
 
-Feel free to reach out for technical discussions, collaboration opportunities, or just to connect!
+Whether you want to discuss cutting-edge ML techniques, algorithmic challenges, or building tech communities, I'm always up for a good conversation!
 
 ---
 
 <div align="center">
-  
-*"The best way to predict the future is to build it."*
 
-**⭐ Star my repositories if you find them useful!**
+**🎯 "Building systems that matter, leading communities that inspire"**
+
+⭐ **Star my repositories and let's build the future together!**
 
 </div>

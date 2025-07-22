@@ -79,10 +79,10 @@ Go      ██████████████  Learning
 *July 2024 - Present*
 
 Developing intelligent e-commerce solutions:
-- **Sales Forecasting System:** Built ML pipeline for optimal inventory management, reducing overstock by 30%
-- **Recommendation Engine:** Implemented collaborative filtering system increasing user engagement by 25%
-- **Production Deployment:** Scaled models to handle 100k+ daily predictions with sub-200ms response times
-- **Tech Stack:** Python, TensorFlow, FastAPI, PostgreSQL, AWS
+- **Sales Forecasting System:** Built ML pipeline for optimal inventory management, reducing overstock 
+- **Recommendation Engine:** Implemented collaborative filtering system increasing user engagement 
+- **Production Deployment:** Scaled models to handle daily predictions 
+- **Tech Stack:** Python, TensorFlow, FastAPI, PostgreSQL, AWS, Spring Boot, Java
 
 ---
 

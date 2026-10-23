@@ -1,13 +1,10 @@
-# Mohammed Amine Hssaine  🚀
-
 <div align="center">
-  
-**AI Software Engineer | Tech Leader | Competitive Programmer**
 
-*Building intelligent systems and leading tech communities*
+# Hi, I'm Mohammed Amine Hssaine 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medaminehssaine/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medaminehssaine)
+### AI & Data Engineering student · ML research · Data platforms · Tech community lead
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medaminehssaine/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medaminehssaine.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:med.amine.hssaine@gmail.com)
 
@@ -15,137 +12,93 @@
 
 ---
 
-## 👨‍💻 About Me
+I'm an engineering student in **AI & Data Technologies at ENSAM Meknès** (Morocco). I like problems where getting the measurement right matters as much as getting the model right, from 3D motion generation to production data pipelines.
 
-4th Year AI & Data Technologies Student at **ENSAM Meknès**, AI Software Engineer at **AriMayi**, and President of **Gadz'IT** - ENSAM's premier computer science club.
-
-Tech enthusiast with a passion for competitive programming, AI systems, and building technical communities. From organizing national programming competitions to developing production ML models, I thrive at the intersection of technology and leadership.
-
-**Current Focus:** AI-driven business solutions, cybersecurity research, and scaling technical communities.
-
----
-
-## 🏆 Leadership & Impact
-
-### **President - Gadz'IT Computer Science Club** *(2025-2026)*
-*Leading ENSAM's largest tech community*
-
-**Journey:** Member (2022-2023) → Sponsorship Leader (2023-2024) → VP (2024-2025) → President (2025-2026)
-
-**Key Achievements:**
-- **AMPC3 Competition:** Organized Morocco's premier competitive programming contest with 40+ teams and 18,000 MAD in prizes
-- **Club Growth:** Expanded membership by 150% and established partnerships with major tech companies
-- **Technical Excellence:** Built comprehensive training programs covering algorithms, data structures, and competitive programming
-- **Community Building:** Created mentorship programs connecting students with industry professionals
-- **Event Management:** Successfully managed budgets exceeding 50,000 MAD and coordinated with national sponsors
+- 🔬 **Research intern at AI Movement – UM6P**, Morocco's International Center for AI. I extended MotionCLIP to generate 3D human motion from text in **7 languages** → [multilingual-motionclip](https://github.com/medaminehssaine/multilingual-motionclip)
+- 💼 **AI Software Engineer at AriMayi**: sales forecasting and recommendation systems for e-commerce
+- 🧑‍🤝‍🧑 **President of Gadz'IT**, ENSAM Meknès' computer science club (member → sponsorship lead → VP → president)
+- 🏁 Organised **AMPC3**, a national competitive programming contest with 40+ teams and 18,000 MAD in prizes
 
 ---
 
-## 🛠️ Tech Stack
+## ⭐ Featured work
 
-### **Languages**
-```python
-Python  █████████████████████████████████████  Expert
-C++     ████████████████████████████████████████  Expert (CP Focus)
-Java    █████████████████████████████████  Advanced
-Go      ██████████████  Learning
-```
+### 🕺 [Multilingual MotionCLIP](https://github.com/medaminehssaine/multilingual-motionclip): text → 3D human motion in 7 languages
 
-### **AI & Machine Learning**
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Hugging Face
-- **Specialties:** Time Series Forecasting, Recommendation Systems, NLP
-- **Tools:** Pandas, NumPy, Jupyter, MLflow, Optuna
+<a href="https://github.com/medaminehssaine/multilingual-motionclip"><img src="https://raw.githubusercontent.com/medaminehssaine/multilingual-motionclip/main/assets/gifs/languages/walk_7langs.gif" width="100%" alt="Same prompt in seven languages"></a>
 
-### **Competitive Programming**
-- **Algorithms:** Graph Theory, Dynamic Programming, Number Theory
-- **Data Structures:** Advanced trees, segment trees, disjoint sets
-- **Platforms:** Codeforces, AtCoder, ICPC-style contests
+A controlled research study, run during my internship at UM6P. Built on MotionCLIP and HumanML3D:
 
-### **Backend & Infrastructure**
-- **Frameworks:** FastAPI, Django, Flask, Spring Boot
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Cloud:** AWS, GCP, Azure
-- **DevOps:** Docker, Kubernetes, CI/CD
+- Translated **24,844 motion captions** into 6 languages with NLLB-200, and swapped CLIP for **M-CLIP** or a **bank of 7 monolingual BERTs**
+- Restored the **VAE objective** and replaced cosine alignment with **contrastive InfoNCE**, which turned a 0.0002 alignment gap into 0.0206
+- Wrote the evaluation stack: **FID / R-precision** following the MoMask protocol, plus a 7-language latent-alignment benchmark; ~40 documented training runs
+- **Result:** in a single-latent model, languages *divide* a fixed capacity. Each added language closes its own gap, and English retrieval halves.
 
-### **Currently Exploring**
-- **AI Security:** ML-based threat detection and security automation
-- **Systems Programming:** Go for high-performance applications
+`PyTorch` `Transformers` `VAE` `Contrastive learning` `M-CLIP` `NLLB-200` `HumanML3D` `SMPL`
 
 ---
 
-## 💼 Professional Experience
+### More projects
 
-### **AI Software Engineer** - AriMayi
-*July 2024 - Present*
-
-Developing intelligent e-commerce solutions:
-- **Sales Forecasting System:** Built ML pipeline for optimal inventory management, reducing overstock 
-- **Recommendation Engine:** Implemented collaborative filtering system increasing user engagement 
-- **Production Deployment:** Scaled models to handle daily predictions 
-- **Tech Stack:** Python, TensorFlow, FastAPI, PostgreSQL, AWS, Spring Boot, Java
-
----
-
-## 🏅 Achievements & Recognition
-
-### **Competitive Programming**
-- **Multiple Contest Winner:** Secured top rankings in national and regional programming competitions
-- **Algorithm Expertise:** Specialized in graph algorithms, dynamic programming, and mathematical problem-solving
-- **Mentorship:** Trained 50+ students in competitive programming techniques
-
-### **Technical Leadership**
-- **Community Impact:** Reached 500+ students through technical workshops and training sessions
-- **Industry Partnerships:** Established collaborations with leading Moroccan tech companies
-- **Event Excellence:** Consistently delivered high-quality technical events with 95%+ satisfaction rates
+| Project | What it is | Stack |
+|---|---|---|
+| ☁️ [**Azure AdventureWorks Lakehouse**](https://github.com/medaminehssaine/azure-adventureworks-lakehouse) | End-to-end Azure data engineering: SQL Server → ADLS Gen2 bronze / silver / gold → Synapse → Power BI, with tested PySpark, data-quality gates, Bicep IaC and CI | PySpark · Azure · Bicep · Power BI |
+| 🏭 [**Supply-Chain Kaizen Lakehouse**](https://github.com/medaminehssaine/supply-chain-kaizen-lakehouse) | Lean / Kaizen KPI pipeline (OTIF, OEE, defect PPM, inventory turns) with Pareto, SPC and PDCA analytics on a DuckDB medallion warehouse | Python · DuckDB · CI |
+| ⚙️ [**APDA demo**](https://github.com/medaminehssaine/apda-demo) | Agentic product-development architecture demo on a DN100 butterfly valve: an agent chain with deterministic DFx scoring, in FR and EN | TypeScript · AI agents |
+| 🌳 [**ID3 & C4.5**](https://github.com/medaminehssaine/ID3-C4.5) | Clean from-scratch implementation of the ID3 and C4.5 decision-tree algorithms | Python |
+| ⚡ [**EnergyManager**](https://github.com/medaminehssaine/EnergyManager) | Data-driven district energy management | Python |
+| 📊 [**OEE360**](https://github.com/medaminehssaine/OEE360) | Data analytics platform: dataset upload, model management and analysis | Python · Web |
+| 🎙️ [**Live-Subtitles**](https://github.com/medaminehssaine/Live-Subtitles) | Desktop app that transcribes any live stream in 21 languages with Vosk, then translates it as live subtitles | Java · Vosk |
+| 🗓️ [**ReservENSAM**](https://github.com/medaminehssaine/ReservENSAM) | Room reservation system for ENSAM | PHP · JavaScript |
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Toolbox
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+
+**Data engineering**
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+**Software & infrastructure**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminehssaine&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medaminehssaine&layout=compact&theme=dark&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=medaminehssaine&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminehssaine&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages">
 
 </div>
 
 ---
 
-## 🚀 Current Projects & Goals
-
-**Technical Focus:**
-- Advanced ML systems for business intelligence
-- AI security and threat detection research
-- High-performance systems programming in Go
-
-**Leadership Goals:**
-- Expand Gadz'IT's national presence and impact
-- Launch Morocco's largest student tech conference
-- Build sustainable mentorship programs for aspiring developers
-
-**2025 Roadmap:**
-- Graduate-level AI research preparation
-- Open-source contributions to ML frameworks
-- International competitive programming recognition
-
----
-
-## 🤝 Let's Connect
-
-I'm passionate about:
-- **AI/ML Innovation:** Building production-ready intelligent systems
-- **Competitive Programming:** Algorithm design and problem-solving
-- **Tech Leadership:** Growing technical communities and mentoring developers
-- **Research Collaboration:** Academic and industry partnerships in AI
-
-Whether you want to discuss cutting-edge ML techniques, algorithmic challenges, or building tech communities, I'm always up for a good conversation!
-
----
-
 <div align="center">
 
-**🎯 "Building systems that matter, leading communities that inspire"**
-
-⭐ **Star my repositories and let's build the future together!**
+**Open to research and engineering internships in ML, computer vision / motion, and data engineering.**
+Happy to talk about multilingual models, evaluation that you can trust, or competitive programming.
 
 </div>
